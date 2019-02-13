@@ -4,7 +4,7 @@ Implemented a Canny Edge Detector in Python from scratch to detect edges in a gr
 #### Instructions: <br>
 
 * Run the source code in Jupyter Notebook. <br>
-* Make sure the path to the image is correctly set. <br>
+* Make sure the path to the image is correctly set. (Provided both ```.raw``` and ```.bmp``` images.) <br>
 
 #### About:<br>
 Canny's Edge Operator consists of four steps;
